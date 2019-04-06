@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
+  title: 'Blog by Lorenzo Bianchi',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -23,9 +23,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Lorenzo Bianchi',
+    photo: '/lore.jpeg',
+    bio: 'Hello my name is Lorenzo and I\'m a Frontend developer. I love React, Angular, Node, Gatsby & everything about modern web development.',
     contacts: {
       email: '#',
       telegram: '#',
